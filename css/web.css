@@ -44,7 +44,7 @@ marquee {
     margin: 20px 0;
 }
 
-.retro-table {
+.table1 {
     width: 100%;
     border-collapse: collapse;
     font-family: 'Courier New', Courier, monospace;
@@ -52,7 +52,7 @@ marquee {
     border: 2px solid #808080;
 }
 
-.retro-table th {
+.table1 th {
     background-color: #000080;
     color: white;
     padding: 8px;
@@ -61,13 +61,13 @@ marquee {
     letter-spacing: 1px;
 }
 
-.retro-table td {
+.table1 td {
     padding: 10px;
     border-bottom: 1px solid #c0c0c0;
     background-color: #fff;
 }
 
-.retro-table tr:hover td {
+.table1 tr:hover td {
     background-color: #ffffcc;
 }
 
