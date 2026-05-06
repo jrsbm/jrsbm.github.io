@@ -254,29 +254,6 @@ display: flex;
     max-width: 600px;
 }
 
-.github-link {
-    margin-left: auto;
-    color: var(--text-secondary);
-    transition: color 0.3s;
-}
-
-.github-link:hover { color: #fff; }
-
-.lang-dot {
-    height: 8px;
-    width: 8px;
-    background-color: #3572A5; /* Python Blue */
-    border-radius: 50%;
-    display: inline-block;
-}
-
-pre[class*="language-"] {
-    border-radius: 12px;
-    border: 1px solid var(--glass-border);
-    background: #011627 !important; /* Night Owl theme vibe */
-    margin: 2rem 0;
-}
-
 /* Conf page table */
 .table-responsive {
     overflow-x: auto;
